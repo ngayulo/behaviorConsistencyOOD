@@ -1,4 +1,4 @@
-Evaluating Object Recognition Behavior Consistency given Out-of-Distribution Stimuli.
+# Evaluating Object Recognition Behavior Consistency given Out-of-Distribution Stimuli
 
 Based on experiments done by [Geirhos et al 2020][1], this project set out to evaluate the ability for CNN to predict human behaviors given out-of-distribution stimuli.  
 We show that using a trained decoder and the Image1 metric to measure consistency, consistency between humans and CNN's is not at chance as suggested in Geirhos et al. 
@@ -19,7 +19,7 @@ General outline of the experiments go as follow:
 - **train_model_wog.py** trains decoders with some percentage of the o.o.d. images.
 - **geirhos.py** replicates the experiment in Geirhos et al for the model's raw responses.
 
-# Acknowledgement:
+# Acknowledgement
 This project was done under the mentorship of Tiago Marques and the DiCarlo Lab at MIT CBMM. It was funded by MIT MSRP-Bio. 
 
 [1]: https://papers.neurips.cc/paper/2020/file/9f6992966d4c363ea0162a056cb45fe5-Paper.pdf
