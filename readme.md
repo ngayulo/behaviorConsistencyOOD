@@ -13,7 +13,7 @@ All human data and images were taken from Geirhos et al. We used four types of i
 # Files and Experiments
 General outline of the experiments go as follow:
 <p> **features.py** and **feature_extraction.py** extract the layer activations from the penultimate layer of an ANN model given the original styled images. The activations are used to train a logistic regression decoder written in **regression.py**. We train ten decoders in total for each CNN model. The out-of-distribution (o.o.d.) images (silhouette, edges, cue-conflict)  are given to the trained decoder. At this point, we consider two methods of measuring human consistency. We use the kappa statistics from Geirhos et al and the Image1 metric from [Rajalingham and Issa et al][2]. Functions used for these metrics is found in **behavior_metric.py**. 
-<p>
+</p>
 - **train_model.py** is used to get the trained decoders
 - **train_model_cross.py** takes the trained decoders and input o.o.d. images to get responses
 - **train_model_wog.py** trains decoders with some percentage of the o.o.d. images.
