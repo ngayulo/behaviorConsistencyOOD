@@ -20,7 +20,7 @@ General outline of the experiments go as follow:
 - **geirhos.py** replicates the experiment in Geirhos et al for the model's raw responses.
 
 Acknowledgement:
-This project was done under the mentorship of Tiago Marques and the DiCarlo Lab at MIT CBMM. 
+This project was done under the mentorship of Tiago Marques and the DiCarlo Lab at MIT CBMM. It was funded by MIT MSRP-Bio. 
 
 [1]: https://papers.neurips.cc/paper/2020/file/9f6992966d4c363ea0162a056cb45fe5-Paper.pdf
 [2]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6096043/
