@@ -1,0 +1,13 @@
+{
+  "alexnet": { "epoch": 200, "lr": 0.03 },
+  "resnet18": { "epoch": 200, "lr": 0.05 },
+  "resnet34": { "epoch": 200, "lr": 0.05 },
+  "resnet50": { "epoch": 200, "lr": 0.03 },
+  "resnet101": { "epoch": 200, "lr": 0.03 },
+  "vgg11": { "epoch": 200, "lr": 0.01 },
+  "vgg13": { "epoch": 200, "lr": 0.02 },
+  "vgg16": { "epoch": 200, "lr": 0.02 },
+  "vgg19": { "epoch": 200, "lr": 0.1},
+  "densenet121": { "epoch": 200, "lr": 0.05 },
+  "densenet169": { "epoch": 200, "lr": 0.05 }
+}

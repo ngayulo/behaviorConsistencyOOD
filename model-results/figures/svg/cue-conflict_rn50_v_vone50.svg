@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="324pt"
+   version="1.1"
+   viewBox="0 0 349.67542 324"
+   width="349.67542pt"
+   id="svg367370"
+   sodipodi:docname="cue-conflict_rn50_v_vone50.svg"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview367372"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="0.94510934"
+     inkscape:cx="251.29368"
+     inkscape:cy="189.39608"
+     inkscape:window-width="1440"
+     inkscape:window-height="874"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="figure_1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata367260">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>2021-08-02T21:58:35.496500</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Matplotlib v3.4.2, https://matplotlib.org/</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs367264">
+    <style
+       type="text/css"
+       id="style367262">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath367478">
+      <rect
+         style="opacity:0.356913;fill:#ffffff;stroke-width:0.75;stroke-dasharray:4.50001, 4.50001;stroke-dashoffset:0.450001"
+         id="rect367480"
+         width="488.49231"
+         height="400.09845"
+         x="0"
+         y="100.80001" />
+    </clipPath>
+  </defs>
+  <g
+     id="figure_1"
+     clip-path="url(#clipPath367478)"
+     transform="matrix(0.80980069,0,0,0.80980069,-19.618055,-44.758013)">
+    <g
+       id="patch_1">
+      <path
+         d="M 0,504 H 504 V 0 H 0 Z"
+         style="fill:#ffffff"
+         id="path367266" />
+    </g>
+    <g
+       id="axes_1"
+       transform="matrix(0.95902722,0,0,0.95902722,0.99259762,2.2645821)">
+      <g
+         id="patch_2">
+        <path
+           d="M 63,448.56 H 453.6 V 60.48 H 63 Z"
+           style="fill:#ffffff"
+           id="path367269" />
+      </g>
+      <g
+         id="patch_3">
+        <path
+           clip-path="url(#pcc76338630)"
+           d="M 80.754545,448.56 H 238.57273 V 302.7924 H 80.754545 Z"
+           style="fill:#008000"
+           id="path367272" />
+      </g>
+      <g
+         id="patch_4">
+        <path
+           clip-path="url(#pcc76338630)"
+           d="M 278.02727,448.56 H 435.84546 V 321.90674 H 278.02727 Z"
+           style="fill:#008000"
+           id="path367275" />
+      </g>
+      <g
+         id="matplotlib.axis_1">
+        <g
+           id="xtick_1">
+          <g
+             id="line2d_1">
+            <defs
+               id="defs367279">
+              <path
+                 d="M 0,0 V 3.5"
+                 id="m2c2e116e45"
+                 style="stroke:#000000;stroke-width:0.8" />
+            </defs>
+            <g
+               id="g367283">
+              <use
+                 style="stroke:#000000;stroke-width:0.8"
+                 x="159.66364"
+                 xlink:href="#m2c2e116e45"
+                 y="448.56"
+                 id="use367281"
+                 width="100%"
+                 height="100%" />
+            </g>
+          </g>
+          <g
+             id="text_1">
+            <text
+               style="font-style:normal;font-weight:normal;font-stretch:normal;font-size:26.6732px;font-family:'DejaVu Sans';text-anchor:middle"
+               x="159.66364"
+               y="472.05862"
+               id="text367286">resnet50</text>
+          </g>
+        </g>
+        <g
+           id="xtick_2">
+          <g
+             id="line2d_2">
+            <g
+               id="g367292">
+              <use
+                 style="stroke:#000000;stroke-width:0.8"
+                 x="356.93637"
+                 xlink:href="#m2c2e116e45"
+                 y="448.56"
+                 id="use367290"
+                 width="100%"
+                 height="100%" />
+            </g>
+          </g>
+          <g
+             id="text_2">
+            <text
+               style="font-style:normal;font-weight:normal;font-stretch:normal;font-size:26.6732px;font-family:'DejaVu Sans';text-anchor:middle"
+               x="356.93637"
+               y="472.05862"
+               id="text367295">vonenet-resnet50</text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="matplotlib.axis_2">
+        <g
+           id="ytick_1">
+          <g
+             id="line2d_3">
+            <defs
+               id="defs367301">
+              <path
+                 d="M 0,0 H -3.5"
+                 id="m0245476aa3"
+                 style="stroke:#000000;stroke-width:0.8" />
+            </defs>
+            <g
+               id="g367305">
+              <use
+                 style="stroke:#000000;stroke-width:0.8"
+                 x="63"
+                 xlink:href="#m0245476aa3"
+                 y="448.56"
+                 id="use367303"
+                 width="100%"
+                 height="100%" />
+            </g>
+          </g>
+          <g
+             id="text_3">
+            <text
+               style="font-style:normal;font-weight:normal;font-stretch:normal;font-size:14.4px;font-family:'DejaVu Sans';text-anchor:end"
+               x="56"
+               y="454.03088"
+               id="text367308">0.00</text>
+          </g>
+        </g>
+        <g
+           id="ytick_2">
+          <g
+             id="line2d_4">
+            <g
+               id="g367314">
+              <use
+                 style="stroke:#000000;stroke-width:0.8"
+                 x="63"
+                 xlink:href="#m0245476aa3"
+                 y="351.54001"
+                 id="use367312"
+                 width="100%"
+                 height="100%" />
+            </g>
+          </g>
+          <g
+             id="text_4">
+            <text
+               style="font-style:normal;font-weight:normal;font-stretch:normal;font-size:14.4px;font-family:'DejaVu Sans';text-anchor:end"
+               x="56"
+               y="357.01086"
+               id="text367317">0.25</text>
+          </g>
+        </g>
+        <g
+           id="ytick_3">
+          <g
+             id="line2d_5">
+            <g
+               id="g367323">
+              <use
+                 style="stroke:#000000;stroke-width:0.8"
+                 x="63"
+                 xlink:href="#m0245476aa3"
+                 y="254.52"
+                 id="use367321"
+                 width="100%"
+                 height="100%" />
+            </g>
+          </g>
+          <g
+             id="text_5">
+            <text
+               style="font-style:normal;font-weight:normal;font-stretch:normal;font-size:14.4px;font-family:'DejaVu Sans';text-anchor:end"
+               x="56"
+               y="259.99088"
+               id="text367326">0.50</text>
+          </g>
+        </g>
+        <g
+           id="ytick_4">
+          <g
+             id="line2d_6">
+            <g
+               id="g367332">
+              <use
+                 style="stroke:#000000;stroke-width:0.8"
+                 x="63"
+                 xlink:href="#m0245476aa3"
+                 y="157.5"
+                 id="use367330"
+                 width="100%"
+                 height="100%" />
+            </g>
+          </g>
+          <g
+             id="text_6">
+            <text
+               style="font-style:normal;font-weight:normal;font-stretch:normal;font-size:14.4px;font-family:'DejaVu Sans';text-anchor:end"
+               x="56"
+               y="162.97087"
+               id="text367335">0.75</text>
+          </g>
+        </g>
+        <g
+           id="ytick_5">
+          <g
+             id="line2d_7">
+            <g
+               id="g367341">
+              <use
+                 style="stroke:#000000;stroke-width:0.8"
+                 x="63"
+                 xlink:href="#m0245476aa3"
+                 y="60.48"
+                 id="use367339"
+                 width="100%"
+                 height="100%" />
+            </g>
+          </g>
+          <g
+             id="text_7">
+            <text
+               style="font-style:normal;font-weight:normal;font-stretch:normal;font-size:14.4px;font-family:'DejaVu Sans';text-anchor:end"
+               x="56"
+               y="65.950874"
+               id="text367344">1.00</text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="LineCollection_1">
+        <path
+           clip-path="url(#pcc76338630)"
+           d="M 159.66364,311.81888 V 293.76593"
+           style="fill:none;stroke:#000000;stroke-width:1.5"
+           id="path367352" />
+        <path
+           clip-path="url(#pcc76338630)"
+           d="M 356.93636,332.43386 V 311.37962"
+           style="fill:none;stroke:#000000;stroke-width:1.5"
+           id="path367354" />
+      </g>
+      <g
+         id="patch_5">
+        <path
+           d="M 63,448.56 V 60.48"
+           style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter"
+           id="path367357" />
+      </g>
+      <g
+         id="patch_6">
+        <path
+           d="M 63,448.56 H 453.6"
+           style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter"
+           id="path367360" />
+      </g>
+    </g>
+  </g>
+  <defs
+     id="defs367368">
+    <clipPath
+       id="pcc76338630">
+      <rect
+         height="388.07999"
+         width="390.60001"
+         x="63"
+         y="60.48"
+         id="rect367365" />
+    </clipPath>
+  </defs>
+</svg>

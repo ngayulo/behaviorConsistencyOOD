@@ -1,0 +1,17 @@
+,accuracy,dprime
+airplane,1.0,5.0
+bear,1.0,5.0
+bicycle,1.0,5.0
+bird,0.8,5.0
+boat,0.8,5.0
+bottle,1.0,5.0
+car,1.0,5.0
+cat,0.9,5.0
+chair,1.0,5.0
+clock,1.0,5.0
+dog,1.0,5.0
+elephant,1.0,5.0
+keyboard,0.6,5.0
+knife,0.7,2.7407632919324394
+oven,0.8,5.0
+truck,1.0,5.0

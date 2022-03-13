@@ -1,0 +1,4 @@
+{
+    "vonenet_resnet50":{"epoch":200,"lr":0.1},
+    "vonenet_cornets":{"epoch":200,"lr":0.1}
+}
